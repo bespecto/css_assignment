@@ -1,0 +1,72 @@
+body {
+	margin: 0px;
+
+}
+.site_banner {
+	border-top: 8px black;
+	border-bottom: 1px black;
+	padding: 20px;
+	text-align: center;
+}
+
+h3 {
+	font: "Basier", serif;
+	font-size: 14px bold;
+	color: #de2f23;
+	letter-spacing: 1px;
+
+}
+
+.article {
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.story_header {
+	font: "Basier", serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 46px;
+	margin-bottom: 0px;
+}
+
+.byline {
+	font-weight: bold;
+}
+
+.story_copy {
+	font: "Pensum", serif;
+	font-size: 20px;
+}
+
+.photo {
+	width: 100%;
+}
+
+.photo_caption {
+	color: gray;
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.footer {
+	font-family:"Basier", serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.footer_info {
+	color: gray;
+	font-size: 14px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: gray;
+}
